@@ -1,0 +1,14 @@
+Name: Yousif Abdulsalam
+Student ID: 202302024
+
+🎮 Play the Game:
+https://play.unity.com/en/games/faa11f8d-a568-41b4-98ea-1caeeeeeb012/webbuild
+
+📁 GitHub Repository:
+https://github.com/wazawski0/PlatformerGame
+
+Notes:
+- 2D platformer built with Unity 6
+- Features: player movement, jumping, collectible coins,
+  respawn on death, win condition, camera follow
+- Version control: .gitignore and .gitattributes included
